@@ -1,6 +1,6 @@
 # 🚖 Uber Supply–Demand Gap Analysis
 **📝 Summary**
-
+ 
 This project analyzes Uber ride request data to identify supply–demand mismatches in different time slots and pickup points. Using Excel, SQL, and Python (Pandas, Matplotlib, Seaborn), the project highlights when and where Uber faces the biggest operational challenges, and provides data-driven recommendations to improve efficiency.
 
 **❓ Business Problem**
