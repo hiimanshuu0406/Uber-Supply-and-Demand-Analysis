@@ -16,6 +16,8 @@ This project analyzes Uber ride request data to identify the supply–demand gap
 3. Python (Pandas, NumPy, Matplotlib, Seaborn) – EDA & visualizations
 
 📊 SQL Queries & Explanation
+'''sql
 CREATE DATABASE Uber_Data_Project;
 USE Uber_Data_Project;
 Creates a new database called Uber_Data_Project and selects it for use.
+'''
